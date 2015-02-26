@@ -1,0 +1,45 @@
+Calin Gilan 
+76 Walnut Dr, Upper Saddle River, NJ, 07458
+cal13199@gmail.com
+Github: github.com/califlower
+917-597-4784
+
+About Me
+ I'm a second year Computer Science student at Rutgers 
+University with over 2.5 year of coding experience in Java . I 
+have experience with mobile android development and I'm not 
+afraid around new or unfamiliar hardware. As a person who 
+enjoys programming, I am hoping a summer internship will 
+allow me to both apply my in-classroom knowledge as well as 
+learn new and useful skills in the field.
+
+Education
+ Northern Highlands Regional High School  | 2009-2013
+ Rutgers University- New Brunswick   | 2013-Present
+     Expected to Graduate in 2017 with a B.S. in Computer Science
+
+Key Skills
+ Languages:  Java, C#, XML, JavaScript 
+ Software:   Eclipse, Git, Github, IntelliJ, Android Studio, Microsoft Office, AutoCAD
+ Photoshop, Illustrator, Microsoft Visual Studio
+ Operating Systems:  Windows XP, Windows 7, Windows 8, Linux, Mac OSX, Android
+ Other:  Good verbal and written communication, strong problem solving skills, 
+  familiar with group projects and deadlines, familiar with mobile coding and projects
+  on mobile devices, strong mobile UI/UX knowledge, and experience with mocking up
+  projects and designs before starting them.
+
+
+Recent Experience
+ Gary F. Haunenstein Land Surveying-Assistant
+ Mahwah, New Jersey
+ Summer 2014
+ -Extensive use of AutoCad
+ -Created and managed land survey titles
+ -Set up and managed computer systems involving land surveying
+
+ Rutgers Electrical Engineering Department-Assistant
+ Piscataway, New Jersey
+ School Year 2013- Present School Year
+ -Assisted in setting up events and projects
+ -Managed graduate student applications 
+ -Provided assistance in an office environment
